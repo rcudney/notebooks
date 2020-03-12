@@ -1,0 +1,1 @@
+This project consists of self-contained Jupyter Notebooks exploring some various topics.
